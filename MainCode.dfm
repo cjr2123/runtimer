@@ -1,17 +1,21 @@
 object Form1: TForm1
   Left = 0
   Top = 0
-  Caption = 'Form1'
-  ClientHeight = 105
-  ClientWidth = 203
+  AlphaBlend = True
+  AlphaBlendValue = 176
+  BorderIcons = []
+  BorderStyle = bsNone
+  Caption = 'Main'
+  ClientHeight = 143
+  ClientWidth = 219
   Color = clBtnFace
-  Enabled = False
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
+  Scaled = False
   OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13

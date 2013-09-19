@@ -56,8 +56,8 @@ begin
 //  lbTimeRem.caption:=timetostr(TimeR);
   i:=0;
   form1.Width:=lbuser.Width+35;
-  form1.Left:=screen.Height-form1.Height;
-  form1.Top:=screen.Width-form1.Width;
+  form1.Left:=screen.width-form1.width;
+  form1.Top:=20;//screen.Width-form1.Width;
 end;
 
 procedure TForm1.tMTTimer(Sender: TObject);

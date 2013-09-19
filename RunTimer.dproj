@@ -77,7 +77,7 @@
 						<VersionInfo Name="MajorVer">0</VersionInfo>
 						<VersionInfo Name="MinorVer">0</VersionInfo>
 						<VersionInfo Name="Release">1</VersionInfo>
-						<VersionInfo Name="Build">1</VersionInfo>
+						<VersionInfo Name="Build">41</VersionInfo>
 						<VersionInfo Name="Debug">False</VersionInfo>
 						<VersionInfo Name="PreRelease">False</VersionInfo>
 						<VersionInfo Name="Special">False</VersionInfo>
@@ -88,9 +88,9 @@
 					</VersionInfo>
 					<VersionInfoKeys>
 						<VersionInfoKeys Name="CompanyName">cjr2123</VersionInfoKeys>
-						<VersionInfoKeys Name="FileDescription">Микропрограмка для автоматического ограничения пользования компьютером детьми больше разрешенного времени.</VersionInfoKeys>
-						<VersionInfoKeys Name="FileVersion">0.0.1.1</VersionInfoKeys>
-						<VersionInfoKeys Name="InternalName"/>
+						<VersionInfoKeys Name="FileDescription">RunTimer</VersionInfoKeys>
+						<VersionInfoKeys Name="FileVersion">0.0.1.41</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName">Микропрограмка для автоматического ограничения пользования компьютером детьми больше разрешенного времени.</VersionInfoKeys>
 						<VersionInfoKeys Name="LegalCopyright">2013 cjr2123</VersionInfoKeys>
 						<VersionInfoKeys Name="LegalTrademarks"/>
 						<VersionInfoKeys Name="OriginalFilename">RunTimer</VersionInfoKeys>
