@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.335,E:\GitHub\Kalinin Aleksey\Unit1.pas=E:\GitHub\Kalinin Aleksey\runtimer\MainCode.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.335,E:\GitHub\Kalinin Aleksey\Unit1.dfm=E:\GitHub\Kalinin Aleksey\runtimer\MainCode.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.554,E:\GitHub\Kalinin Aleksey\Project1.dproj=E:\GitHub\Kalinin Aleksey\runtimer\RunTimer.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.554,E:\GitHub\Kalinin Aleksey\runtimer\RunTimer.dproj=E:\GitHub\Kalinin Aleksey\Project1.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.367,=E:\GitHub\Kalinin Aleksey\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,E:\GitHub\Kalinin Aleksey\runtimer\MainCode.pas=E:\GitHub\Kalinin Aleksey\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,E:\GitHub\Kalinin Aleksey\runtimer\MainCode.dfm=E:\GitHub\Kalinin Aleksey\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>

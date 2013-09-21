@@ -6,8 +6,8 @@ object Form1: TForm1
   BorderIcons = []
   BorderStyle = bsNone
   Caption = 'Main'
-  ClientHeight = 143
-  ClientWidth = 219
+  ClientHeight = 105
+  ClientWidth = 142
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -57,25 +57,6 @@ object Form1: TForm1
     Font.Name = 'Courier New'
     Font.Style = [fsBold]
     ParentFont = False
-  end
-  object Label1: TLabel
-    Left = 142
-    Top = 58
-    Width = 31
-    Height = 13
-    Caption = 'Label1'
-    Visible = False
-  end
-  object BitBtn1: TBitBtn
-    Left = 126
-    Top = 72
-    Width = 75
-    Height = 25
-    DoubleBuffered = True
-    Kind = bkClose
-    NumGlyphs = 2
-    ParentDoubleBuffered = False
-    TabOrder = 0
   end
   object tMT: TTimer
     Enabled = False
